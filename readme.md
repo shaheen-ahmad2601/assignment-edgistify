@@ -1,7 +1,7 @@
 # Edgistify Assignment
 
 ## Introduction
-An E-commerce project where users can buy products, it has a user authentication, product section, cart, and checkout functionality.
+This is an E-commerce app where users can buy products, it has a user authentication, product section, cart, and checkout functionality and only authenticated uses can proceed further.
 
 ## Project Type
 Frontend | Backend | Fullstack
